@@ -5,7 +5,7 @@ import polling
 from datetime import time, datetime
 import asyncio
 
-daily_task_time = "11:19"
+daily_task_time = "00:00"
 
 last_run = {}
 
