@@ -1,10 +1,10 @@
-**Cardio HIIT (High-Intensity Interval Training)**
+Cardio HIIT (High-Intensity Interval Training)
 
-**Time**: 30 mins
-**Equipment**: None
-**Format**: 40 sec work / 20 sec rest × 3 rounds
+Time: 30 mins
+Equipment: None
+Format: 40 sec work / 20 sec rest × 3 rounds
 
-**Warm-Up (5 mins)**
+Warm-Up (5 mins)
 
 * Jumping jacks for 1 min
 * Arm circles for 1 min
@@ -12,7 +12,7 @@
 * Bodyweight squats for 1 min
 * Hip circles for 1 min
 
-**Workout (20 mins)**
+Workout (20 mins)
 Repeat the following circuit 3x:
 
 1. Jump squats
@@ -23,7 +23,7 @@ Repeat the following circuit 3x:
 6. Skater hops
 7. Plank jacks
 
-**Cool Down (5 mins)**
+Cool Down (5 mins)
 
 * Light jog or march for 1 min
 * Hamstring stretch for 1 min
