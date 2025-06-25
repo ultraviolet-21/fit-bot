@@ -9,7 +9,7 @@ According to the CDC, only 28% of American adults meet the recommended exercise 
 3. Streak file that will be incremented or reset depending on the user's replies
 
 # Tools Used:
-I coded this entire project using Python 3.11. I used Python's third-party telegram library to set up the application, send messages, and wait for a response. In addition, I used built-in libraries like json, datetime, and logging. The project requires a virtual environment to run. (Bot link: https://t.me/fitness-bot)
+I coded this entire project using Python 3.11. I used Python's third-party telegram library to set up the application, send messages, and wait for a response. In addition, I used built-in libraries like json, datetime, and logging. The project requires a virtual environment to run. (Bot link: https://t.me/Fitness288Bot)
 
 # Example Workflow:
 1. At a given time (default: midnight Pacific Time), the user receives a message with a randomly selected workout.
