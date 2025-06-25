@@ -1,7 +1,7 @@
-# fitness-bot
+# fit-bot
 
 # Overview:
-According to the CDC, only 28% of American adults meet the recommended exercise guidelines. Common reasons for this are lack of motivation and lack of resources/ equipment. The benefits of regular exercise range from a decreased risk of heart disease to a stronger immune system to mitigating anxiety and depression. To encourage people to work out regularly, and address some of the barriers to do so, I developed Fitness Bot. This program consists of a Telegram bot that will suggest the user a 20-30 minute workout every day. These will be at-home workouts that require minimal equipment. The user can reply once they've completed the workout, which can be any time of the day, and the program will keep track of their streak. The streak feature is similar to Snapchat's and aims to incentivize users to work out every day.
+According to the CDC, only 28% of American adults meet the recommended exercise guidelines. Common reasons for this are lack of motivation and lack of resources/ equipment. The benefits of regular exercise range from a decreased risk of heart disease to a stronger immune system to mitigating anxiety and depression. To encourage people to work out regularly, and address some of the barriers to do so, I developed FitBot. FitBot uses a Telegram bot that will suggest the user a 20-30 minute workout every day. These will be at-home workouts that require minimal equipment. The user can reply once they've completed the workout, which can be any time of the day, and the program will keep track of their streak. The streak feature is similar to Snapchat's and aims to incentivize users to work out every day.
 
 # Key Features: 
 1. Uses Telegram's bot feature to randomly suggest a workout of a given type (cardio, strength, flexibility, etc)
