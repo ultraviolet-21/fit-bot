@@ -1,7 +1,7 @@
 # fitness-bot
 
 # Overview:
-[statistic] The Fitness Bot is a Telegram bot that will suggest the user a 20-30 minute workout every day. The user can reply once they've completed the workout, and the program will keep track of their streak.
+According to the CDC, only 28% of American adults meet the recommended exercise guidelines. Common reasons for this are lack of motivation and lack of resources/ equipment. The benefits of regular exercise range from a decreased risk of heart disease to a stronger immune system to mitigating anxiety and depression. To encourage people to work out regularly, and address some of the barriers to do so, I developed Fitness Bot. This program consists of a Telegram bot that will suggest the user a 20-30 minute workout every day. These will be at-home workouts that require minimal equipment. The user can reply once they've completed the workout, which can be any time of the day, and the program will keep track of their streak. The streak feature is similar to Snapchat's and aims to incentivize users to work out every day.
 
 # Key Features: 
 1. Uses Telegram's bot feature to randomly suggest a workout of a given type (cardio, strength, flexibility, etc)
@@ -18,4 +18,7 @@ I coded this entire project using Python 3.11. I used Python's third-party teleg
 4. A message with the length of the current streak will be sent to the user.
 5. If no reply is received for 24 hours, then the streak is reset to 0.
 
-[add conclusion/ future directions]
+# Future Directions:
+1. Instead of randomly selecting from a set of hardcoded workouts, I plan to pull a workout from a large database. Alternatively, using a model like OpenAI to generatw a workout.
+2. Allowing the user to select the type of workout (strength, cardio, flexibility), and then the bot will reply with the specific workout.
+
