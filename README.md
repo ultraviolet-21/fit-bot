@@ -11,6 +11,9 @@ According to the CDC, only 28% of American adults meet the recommended exercise 
 # Tools Used:
 I coded this entire project using Python 3.11. I used Python's third-party telegram library to set up the application, send messages, and wait for a response. In addition, I used built-in libraries like json, datetime, and logging. The project requires a virtual environment to run. (Bot link: https://t.me/Fitness288Bot)
 
+# How to Set Up:
+The link to the bot is https://t.me/Fitness288Bot. If you have a Telegram account, click on that, and then click "Start Bot." You can start a conversation with the bot by typing /start. Then, you will need to obtain your chat id. You can do this by typing https://api.telegram.org/bot7518139033:AAH75ac4lJmvoFLigs4A23LlTuCQXQVMTj4/getUpdates in a browser, and then sending a message to the bot. The chat id will then be visible on your browser. Set CHAT_ID to this, and then you are ready to receive messages!
+
 # Example Workflow:
 1. At a given time (default: midnight Pacific Time), the user receives a message with a randomly selected workout.
 2. Any time during the day, the user can complete the workout. Upon completion, the user must reply to the message.
@@ -19,6 +22,6 @@ I coded this entire project using Python 3.11. I used Python's third-party teleg
 5. If no reply is received for 24 hours, then the streak is reset to 0.
 
 # Future Directions:
-1. Instead of randomly selecting from a set of hardcoded workouts, I plan to pull a workout from a large database. Alternatively, using a model like OpenAI to generatw a workout.
+1. Instead of randomly selecting from a set of hardcoded workouts, I plan to pull a workout from a large database. Alternatively, using a model like OpenAI to generate a workout.
 2. Allowing the user to select the type of workout (strength, cardio, flexibility), and then the bot will reply with the specific workout.
 
