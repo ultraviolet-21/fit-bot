@@ -7,7 +7,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTyp
 from telegram.error import TelegramError
 import random
 import json
-from datetime import date, time
+from datetime import date, time, timedelta
 
 logging.getLogger("httpx").setLevel(logging.WARNING)
 
