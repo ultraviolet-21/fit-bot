@@ -12,7 +12,7 @@ According to the CDC, only 28% of American adults meet the recommended exercise 
 I coded this entire project using Python 3.11. I used Python's third-party telegram library to set up the application, send messages, and wait for a response. In addition, I used built-in libraries like json, datetime, and logging. The project requires a virtual environment to run. (Bot link: https://t.me/Fitness288Bot)
 
 # How to Set Up:
-The link to the bot is https://t.me/Fitness288Bot. If you have a Telegram account, click on that, and then click "Start Bot." You can start a conversation with the bot by typing /start. Then, you will need to obtain your chat id. You can do this by typing https://api.telegram.org/bot7518139033:AAH75ac4lJmvoFLigs4A23LlTuCQXQVMTj4/getUpdates in a browser, and then sending a message to the bot. The chat id will then be visible on your browser. Set CHAT_ID to this, and then you are ready to receive messages!
+The link to the bot is https://t.me/Fitness288Bot. If you have a Telegram account, click on that, and then click "Start Bot." You can start a conversation with the bot by typing /start. Then, you will need to obtain your chat id. You can do this by typing https://api.telegram.org/bot7518139033:AAH75ac4lJmvoFLigs4A23LlTuCQXQVMTj4/getUpdates in a browser, and then sending a message to the bot. The chat id will then be visible on your browser. Set CHAT_ID to this, and then you are ready to receive messages! Now, you can run polling.py or daily_message.py.
 
 # Example Workflow:
 1. At a given time (default: midnight Pacific Time), the user receives a message with a randomly selected workout.
